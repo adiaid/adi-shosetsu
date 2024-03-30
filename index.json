@@ -27,6 +27,10 @@
     {
       "name": "Madara",
       "ver": "2.9.0"
+    },
+    {
+      "name": "ReadWN",
+      "ver": "1.0.11"
     }
   ],
   "scripts": [
