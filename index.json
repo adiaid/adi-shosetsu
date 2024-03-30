@@ -1,10 +1,6 @@
 {
   "libraries": [
     {
-      "name": "247truyen",
-      "ver": "1.1.2"
-    },
-    {
       "name": "CommonCSS",
       "ver": "1.0.1"
     },
