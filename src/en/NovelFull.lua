@@ -1,7 +1,7 @@
 -- {"id":777777777,"ver":"1.0.1","libVer":"1.0.0","author":"TechnoJo4","dep":["NovelFull>=2.0.2"]}
 
 return Require("NovelFull")("http://novelfull.com", {
-	id = 1,
+	id = 777777777,
 	name = "NovelFull",
 	imageURL = "https://github.com/adiaid/adi-shosetsu/blob/master/icons/NovelFull.png",
 	
