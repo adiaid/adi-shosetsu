@@ -11,6 +11,7 @@ https://raw.githubusercontent.com/adiaid/adi-shosetsu/master
 - [Archive Of Our Own](https://archiveofourown.org/)
 - [Azure Coven (C)](https://www.azurecoven.com/)
 - [Bluebells in Bloom (WP)](https://bluebellsinbloom.wordpress.com/)
+- [Citrus Aurora (A)](https://citrusaurora.com/)
 - [Guavaread](https://guavaread.com/)
 - [Moonlight Novels (A)](https://moonlightnovel.com/)
 - [Novel Full](https://novelfull.net/)
