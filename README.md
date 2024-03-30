@@ -28,5 +28,5 @@ https://raw.githubusercontent.com/adiaid/adi-shosetsu/master
 - [WoopRead (A)](https://woopread.com/)
 - [WordExcerpt(C)](https://wordexcerpt.com/)
 
-  Ignore "(Letter)"
-  More sources to be added
+  --Ignore "(Letter)"
+  --More sources to be added
