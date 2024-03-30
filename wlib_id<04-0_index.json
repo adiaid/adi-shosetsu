@@ -1,0 +1,205 @@
+{
+  "scripts": [
+    {
+      "name": "AO3",
+      "fileName": "AO3",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/AO3.png",
+      "id": 01000,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "Azure Coven",
+      "fileName": "AzureCoven",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/AzureCoven.png",
+      "id": 02000,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "Bluebells in Bloom",
+      "fileName": "BluebellsinBloom",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/BluebellsInBloom.png",
+      "id": 03000,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "Citrus Aurora",
+      "fileName": "CitrusAurora",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/CitrusAurora.png",
+      "id": 04000,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "Guavaread",
+      "fileName": "Guavaread",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/Guavaread.png",
+      "id": 05000,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "Moonlight Novels",
+      "fileName": "MoonlightNovels",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/MoonlightNovels.png",
+      "id": 06000,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "NovelFull",
+      "fileName": "NovelFull",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/NovelFull.png",
+      "id": 07000,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "Novel Updates",
+      "fileName": "NovelUpdates",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/NovelUpdates.png",
+      "id": 08000,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "Rain Of Snow",
+      "fileName": "RainOfSnow",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/RainOfSnow.png",
+      "id": 09000,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "ReadHive",
+      "fileName": "ReadHive",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/ReadHive.png",
+      "id": 10000,
+      "lang": "all",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "Reaper Scans",
+      "fileName": "ReaperScans",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/ReaperScans.png",
+      "id": 11000,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "Salmon Latte",
+      "fileName": "SalmonLatte",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/SalmonLatte.png",
+      "id": 12000,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "Scribble Hub",
+      "fileName": "ScribbleHub",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/ScribbleHub.png",
+      "id": 13000,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "Shanghai Fantasy",
+      "fileName": "ShanghaiFantasy",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/ShanghaiFantasy.png",
+      "id": 14000,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "Sky Demon Order",
+      "fileName": "SkyDemonOrder",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/SkyDemonOrder.png",
+      "id": 15000,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "Sleepy Tranlastions",
+      "fileName": "SleepyTranslations",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/SleepyTranslations.png",
+      "id": 16000,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "Story Seedling",
+      "fileName": "StorySeedling",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/StorySeedling.png",
+      "id": 17000,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "Wooks Teahouse",
+      "fileName": "WooksTeahouse",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/WooksTeahouse.png",
+      "id": 18000,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "WoopRead",
+      "fileName": "WoopRead",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/WoopRead.png",
+      "id": 19000,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "WordExcerpt",
+      "fileName": "WordExcerpt",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/WordExcerpt.png",
+      "id": 20000,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    }
+  ]
+}
+    
