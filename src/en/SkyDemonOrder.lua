@@ -18,9 +18,9 @@ return {
 	name = "Sky Demon Order",
 	baseURL = baseURL,
 	imageURL = "https://github.com/adiaid/adi-shosetsu/blob/master/icons/SkyDemonOrder.png",
-	hasSearch = true,
+	hasSearch = false,
 	chapterType = ChapterType.HTML,
-	shrinkURL = shrinkURL,
+	kURL = shrinkURL,
 	expandURL = expandURL,
 
 	listings = {
