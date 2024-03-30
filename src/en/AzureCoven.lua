@@ -2,8 +2,8 @@
 
 return Require("Madara")("https://www.azurecoven.com", {
 	id = 111111111,
-	name = "Azura Coven",
-	imageURL = "https://github.com/adiaid/extensions/raw/master/icons/AzureCoven.png",
+	name = "Azure Coven",
+	imageURL = "https://github.com/adiaid/adi-shosetsu/blob/master/icons/AzureCoven.png",
 	chaptersScriptLoaded = false,
 	chaptersListSelector= "li.wp-manga-chapter.free-chap",
 	novelListingURLPath = "genre/korean-novel",
