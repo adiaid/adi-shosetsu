@@ -243,7 +243,7 @@ return {
 	baseURL = baseURL,
 
 	-- Optional values to change
-	imageURL = "",
+	imageURL = "https://github.com/adiaid/adi-shosetsu/blob/master/icons/AO3.png",
 	hasCloudFlare = true,
 	hasSearch = true,
 
