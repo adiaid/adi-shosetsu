@@ -239,6 +239,16 @@
       "ver": "1.0.1",
       "libVer": "1.0.0",
       "md5": ""
+    },
+    {
+      "name": "Wattpad",
+      "fileName": "Wattpad",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/Wattpad.png",
+      "id": 203333333,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
     }
   ]
 }
