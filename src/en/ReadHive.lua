@@ -118,10 +118,10 @@ local function getSearch(data)
 end
 
 return {
-	id = 4304,
-	name = "Readhive",
+	id = 101111111,
+	name = "ReadHive",
 	baseURL = baseURL,
-	imageURL = "https://github.com/shosetsuorg/extensions/raw/dev/icons/Readhive.png",
+	imageURL = "https://github.com/adiaid/adi-shosetsu/blob/master/icons/ReadHive.png",
 	chapterType = ChapterType.HTML,
 
 	listings = {
