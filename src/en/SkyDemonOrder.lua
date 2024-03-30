@@ -20,7 +20,7 @@ return {
 	imageURL = "https://github.com/adiaid/adi-shosetsu/blob/master/icons/SkyDemonOrder.png",
 	hasSearch = false,
 	chapterType = ChapterType.HTML,
-	kURL = shrinkURL,
+	shrinkURL = shrinkURL,
 	expandURL = expandURL,
 
 	listings = {
