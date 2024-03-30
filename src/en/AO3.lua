@@ -1,4 +1,4 @@
--- {"id":1308639964,"ver":"1.0.1","libVer":"1.0.0","author":"Jobobby04"}
+-- {"id":981159786,"ver":"1.0.1","libVer":"1.0.0","author":"Jobobby04"}
 
 local baseURL = "https://archiveofourown.org"
 local settings = {}
@@ -238,7 +238,7 @@ local function search(filters)
 end
 
 return {
-	id = 1308639964,
+	id = 981159786,
 	name = "AO3",
 	baseURL = baseURL,
 	imageURL = "https://github.com/adiaid/adi-shosetsu/blob/master/icons/AO3.png",
