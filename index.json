@@ -41,6 +41,16 @@
       "md5": ""
     },
     {
+      "name": "AO3",
+      "fileName": "AO3",
+      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/AO3.png",
+      "id": 010001,
+      "lang": "all",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
       "name": "Azure Coven",
       "fileName": "AzureCoven",
       "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/AzureCoven.png",
