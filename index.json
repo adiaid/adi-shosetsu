@@ -187,10 +187,10 @@
     {
       "name": "Sky Demon Order",
       "fileName": "SkyDemonOrder",
-      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/SkyDemonOrder.png",
-      "id": 106666666,
+      "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/icons/SkyDemonOrder.png",
+      "id": 93082,
       "lang": "en",
-      "ver": "1.0.1",
+      "ver": "3.0.1",
       "libVer": "1.0.0",
       "md5": ""
     },
