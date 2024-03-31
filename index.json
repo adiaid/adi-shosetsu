@@ -167,7 +167,7 @@
     {
       "name": "Scribble Hub",
       "fileName": "ScribbleHub",
-      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/ScribbleHub.png",
+      "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/icons/ScribbleHub.png",
       "id": 104444444,
       "lang": "en",
       "ver": "1.0.1",
@@ -197,7 +197,7 @@
     {
       "name": "Sleepy Tranlastions",
       "fileName": "SleepyTranslations",
-      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/SleepyTranslations.png",
+      "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/icons/SleepyTranslations.png",
       "id": 107777777,
       "lang": "en",
       "ver": "1.0.1",
