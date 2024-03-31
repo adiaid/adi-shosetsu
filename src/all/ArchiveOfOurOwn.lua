@@ -1,4 +1,4 @@
--- {"id":981159786,"ver":"1.0.1","libVer":"1.0.0","author":"Jobobby04"}
+-- {"id":1308639966,"ver":"1.0.5","libVer":"1.0.0","author":"Jobobby04"}
 
 local baseURL = "https://archiveofourown.org"
 local settings = {}
@@ -238,12 +238,12 @@ local function search(filters)
 end
 
 return {
-	id = 981159786,
-	name = "AO3",
+	id = 1308639966,
+	name = "ArchiveOfOurOwn",
 	baseURL = baseURL,
 
 	-- Optional values to change
-	imageURL = "https://github.com/adiaid/adi-shosetsu/blob/master/icons/AO3.png",
+	imageURL = "",
 	hasCloudFlare = true,
 	hasSearch = true,
 
