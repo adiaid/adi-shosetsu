@@ -247,10 +247,10 @@
     {
       "name": "Wattpad",
       "fileName": "Wattpad",
-      "imageURL": "https://github.com/adiaid/adi-shosetsu/blob/master/icons/Wattpad.png",
-      "id": 203333333,
-      "lang": "all",
-      "ver": "1.0.1",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/2111/2111715.png",
+      "id": 95556,
+      "lang": "en",
+      "ver": "1.0.5",
       "libVer": "1.0.0",
       "md5": ""
     }
