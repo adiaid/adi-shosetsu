@@ -1,4 +1,4 @@
--- {"id":203333333,"ver":"1.0.1","libVer":"1.0.0","author":"Confident-hate"}
+-- {"id":95556,"ver":"1.0.5","libVer":"1.0.0","author":"Confident-hate"}
 local json = Require("dkjson")
 local baseURL = "https://www.wattpad.com"
 
@@ -148,7 +148,7 @@ local function parseNovel(novelURL)
     local isPaid = document:selectFirst(".paid-indicator")
     local description = ""
     if isPaid ~= nil then 
-        description = "!! ðŸ’° Paid Story !! \n" .. document:selectFirst(".description-text"):text()
+        description = "!! 💰 Paid Story !! \n" .. document:selectFirst(".description-text"):text()
     else
         description = document:selectFirst(".description-text"):text()
     end
@@ -174,7 +174,7 @@ local function parseNovel(novelURL)
                     local title = v:selectFirst("a .left-container"):text()
                     local chapterRightLabel = v:selectFirst(".right-label"):text()
                     if string.find(chapterRightLabel, "Locked") then
-                        title = "ðŸ”’ ".. title
+                        title = "🔒 ".. title
                     end
                     return NovelChapter {
                         order = v,
@@ -230,10 +230,10 @@ end
 
 
 return {
-    id = 203333333,
+    id = 95556,
     name = "Wattpad",
     baseURL = baseURL,
-    imageURL = "https://github.com/adiaid/adi-shosetsu/blob/master/icons/Wattpad.png",
+    imageURL = "https://cdn-icons-png.flaticon.com/512/2111/2111715.png",
     hasSearch = true,
     listings = {
         Listing("Default", true, getListing)
