@@ -47,7 +47,7 @@ return {
 	id = 104444444,
 	name = "Scribble Hub",
 	baseURL = baseURL,
-	imageURL = "https://github.com/adiaid/adi-shosetsu/blob/master/icons/ScribbleHub.png",
+	imageURL = "https://github.com/shosetsuorg/extensions/raw/dev/icons/ScribbleHub.png",
 	chapterType = ChapterType.HTML,
 
 	listings = {
