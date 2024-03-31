@@ -1,4 +1,4 @@
--- {"id":106666666,"ver":"1.0.1","libVer":"1.0.0","author":"MechTechnology"}
+-- {"id":93082,"ver":"3.0.1","libVer":"1.0.0","author":"MechTechnology"}
 local baseURL = "https://skydemonorder.com/"
 
 local function text(v)
@@ -14,10 +14,10 @@ local function expandURL(url)
 end
 
 return {
-	id = 106666666,
+	id = 93082,
 	name = "Sky Demon Order",
 	baseURL = baseURL,
-	imageURL = "https://github.com/adiaid/adi-shosetsu/blob/master/icons/SkyDemonOrder.png",
+	imageURL = "https://github.com/shosetsuorg/extensions/raw/dev/icons/SkyDemonOrder.png",
 	hasSearch = false,
 	chapterType = ChapterType.HTML,
 	shrinkURL = shrinkURL,
@@ -47,10 +47,10 @@ return {
 		if loadChapters then
 			--- @param novelDoc Document
 			local function parseChapters(novelDoc)
-				return mapNotNil(novelDoc:selectFirst("section:last-child"):select(".flex.items-center a"), function(v)
+				return mapNotNil(novelDoc:select("section"):get(1):select(".flex.items-center a"), function(v)
 					return NovelChapter {
 						title = v:text(),
-						link = shrinkURL(v:attr("href")),
+						link = v:attr("href"),
 					}
 				end)
 			end
