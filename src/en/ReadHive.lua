@@ -1,4 +1,4 @@
--- {"id":101111111,"ver":"1.0.1","libVer":"1.0.0","author":"MechTechnology"}
+-- {"id":4304,"ver":"1.2.0","libVer":"1.0.0","author":"MechTechnology"}
 
 local baseURL = "https://readhive.org"
 
@@ -118,10 +118,10 @@ local function getSearch(data)
 end
 
 return {
-	id = 101111111,
-	name = "ReadHive",
+	id = 4304,
+	name = "Readhive",
 	baseURL = baseURL,
-	imageURL = "https://github.com/adiaid/adi-shosetsu/blob/master/icons/ReadHive.png",
+	imageURL = "https://github.com/shosetsuorg/extensions/raw/dev/icons/Readhive.png",
 	chapterType = ChapterType.HTML,
 
 	listings = {
